@@ -1,5 +1,5 @@
 # predicting-bike-sharing-pattern
-For the Udacity Nanodegree, Deep Learning. Learning material. See Udacity's license information.
+Learning materials for the Udacity Nanodegree, Deep Learning. See their license information.
 
 I do not own all of the content in this repository.
 ```
